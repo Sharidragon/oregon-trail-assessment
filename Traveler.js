@@ -3,8 +3,8 @@ class Traveler {
     constructor(traveler)   {
         this.newTraveler = traveler
         this.food = 1
-        this.isHealthy = true
-}
+        this.isHealthy = true   
+    }
 
 // hunt() – Increases the traveler's food by 2.
     hunt (){
